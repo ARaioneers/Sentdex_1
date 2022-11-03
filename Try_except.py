@@ -1,6 +1,8 @@
 game=[[0,0,0],
       [0,0,0],
       [0,0,0]]
+
+
 def game_board(game_map, player=0, row=0, column=0, just_display=False):
     try:    
         print("   0  1  2")
